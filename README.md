@@ -11,6 +11,3 @@
 
 <h2>Question 4:</h2>
 <p>An adeptly crafted web server in C, implemented with the GCC compiler on a Linux environment (Ubuntu 22.04), unfortunately, lacks compatibility with Windows systems.</p>
-
-<h2>Question 5:</h2>
-<p>For a detailed guide on navigating through the Chromium Embedded Framework solution for Question 5, please refer to the <a href="https://github.com/imAdityaSharma/StdAux-assignment/blob/master/Q5%20Cef%20calci/read.md">read.md</a>.</p>
